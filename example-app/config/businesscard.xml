@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<BusinessCard>
+	<name> Ethan Chen</name>
+	<position> Student</position>
+	<email>	chensong108330@gmail.com</email>
+	<phone type="cell">	416-824-9713</phone>
+	<phone type="work">	416-301-7789</phone>
+</BusinessCard>
+</?xml>
