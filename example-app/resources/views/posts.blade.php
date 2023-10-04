@@ -7,9 +7,9 @@
 				</a>
 			</h1>
 			
-			<p> 
-				By <a href="/categories/{{$post->author->id}}">{{$post->category->name }}</a> in <a href="/categories/{{$post->category->slug}}"> </a>
-			</p>
+		<p>
+			By <a href="/authors/{{$post->author->name }}">{{ $post->author->name }}</a> in <a href="/categories/{{$post->category->slug}}"> </a>
+		</p>
 			
 			
 			<div>
